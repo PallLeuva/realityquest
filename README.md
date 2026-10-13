@@ -1,5 +1,5 @@
 # RealityQuest
-**Play:** https://realityquest.mr-leuva.chatgpt.site
+**Play:** https://pallleuva.github.io/realityquest/
 
 An interactive AI literacy game for ages 10–14, created for Child Safety in AI.
 
